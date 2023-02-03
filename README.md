@@ -23,7 +23,7 @@ Methods to circumvent this involve the usage of VPNs, namely:
 
 ^ Letting your friend's device temporarily connect to the VPN-Server software running on your PC / Device registered with your netflix account.
 
-Such a connection involves the duration of watching one movie / episode? on episode.
+Such a connection involves the duration of watching one movie / episode? on netflix.
 
 These techniques are documented [here](https://www.top10vpn.com/vpn-setup/home-vpn-server/).
 
